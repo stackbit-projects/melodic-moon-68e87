@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Descubra sua melhor versão!
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Descubra a sua melhor verão, sem misterios é começar suar a camisa e se
+      tornar uma pessoa melhor.
     actions:
       - label: Experimente grátis
         url: /pricing
