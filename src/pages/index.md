@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Descubra sua melhor versão!
-    subtitle: Optional hero section subtitle
+    subtitle: 'Mais energia, mais disposição.'
     content: >
       Descubra a sua melhor verão, sem misterios é começar suar a camisa e se
       tornar uma pessoa melhor.
