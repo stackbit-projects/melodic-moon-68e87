@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Descubra sua melhor versão
+    title: Descubra sua melhor versão!
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
