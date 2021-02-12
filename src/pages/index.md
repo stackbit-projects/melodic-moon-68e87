@@ -59,7 +59,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Aulas ao vivo 100% online
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: faça as aulas na segurança de sua casa
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
