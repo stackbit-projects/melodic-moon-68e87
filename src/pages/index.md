@@ -11,7 +11,7 @@ sections:
       - label: Experimente grátis
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Assinar um plano
         url: /features
         style: secondary
     image: images/running.jpg
